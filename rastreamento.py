@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 from lxml import etree
 from urllib.request import urlopen
 
-codigo_rastreamento = input("Código de rastreamento: ") #LE461013539SE
+codigo_rastreamento = input("Código de rastreamento: ")
 
 
 try:
