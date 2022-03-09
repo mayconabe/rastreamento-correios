@@ -12,4 +12,4 @@ pip install -r requirements.txt
 py rastreamento.py
 ```
 
-Pronto! Agora é só digitar o seu código de rastreamento e as informações sobre o seu objeto irão aparecerem.
+Pronto! Agora é só digitar o seu código de rastreamento e as informações sobre o seu objeto irão aparecerer.
